@@ -1,0 +1,21 @@
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de compilação do .NET
+bin/
+obj/
+
+# Diretórios de dependências do Docker
+.docker/
+
+# Arquivos de configuração de IDEs (Exemplo: VS Code, Visual Studio)
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+*.log
